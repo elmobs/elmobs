@@ -1,6 +1,6 @@
 ### Olá sou Elmo Borges
 
-Bacharel em Sistemas de Informações Buscando cada dia mais conhecimento e aprimoramento na área de Desenvolvimento.
+Bacharel em Sistemas de Informações, pós graduado em Desenvovimento web FullStack. Buscando cada dia mais conhecimento e aprimoramento na área de Desenvolvimento.
 
 
 - 🔭 Hoje estou desenvolvendo no front-end e no back-end com JavaScript
