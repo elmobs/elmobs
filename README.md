@@ -1,10 +1,19 @@
 ### Olá sou Elmo Borges
 
-Bacharel em Sistemas de Informações, pós graduado em Desenvovimento web FullStack. Buscando cada dia mais conhecimento e aprimoramento na área de Desenvolvimento.
+Bacharel em Sistema de Informação, pós-graduando em Desenvolvimento web full
+Stack; Desenvolvedor Full Stack, apaixonado, focado e dedicado a aprender cada dia mais,
+estudando pesquisando e me atualizando, para conseguir sempre construir soluções
+escaláveis, sistemas de alta qualidade, confiança, eficiência e manutenibilidade. Com
+experiência majoritariamente voltada para o ReactJS e Node, sou um profissional focado
+em resolver desafios técnicos, ajudar empresas e pessoas a alcançarem seus objetivos e
+com isso conseguir junto com o time fazer entregas de soluções sempre prezando pela
+qualidade e usabilidade.
+Conhecimentos e experiências:
+Front End: HTML, CSS, Styled Components, Bootstrap, Material UI, Matine UI, Chakra UI,
+Higcharts, SaSS, Firebase, JavaScript, TypeScript, ReacJS, NextJs Back End: NodeJS,
+Express, JavaScript, PHP, TypeScript, Banco de Dados relacionais e nao relacionais
+(MongoBD, MySql)
 
-
-- 🔭 Hoje estou desenvolvendo no front-end e no back-end com JavaScript
-- 🌱 Estudando e buscando conhecimentos e aprimoramento em Typescrip | PHP | JAVA | IOT | BigData | 💻💻💻
 
 ##
 <div align="center">
