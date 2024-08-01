@@ -1,5 +1,7 @@
 ### Olá, Sou Elmo Borges 🙋‍♂️
 
+#### obs: Estou atualizando meu git, meus repositorios sao de projetos restritos e estou implemnetando novos projetos para divulgação em meu portifolio, em breve vou ter aqui repositorios com projetos full Stack, so front end, so back end e de cursos que vou publicar.
+
 [![Blog](https://img.shields.io/badge/EBS--SISTEMAS.DEV.BR-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://ebs-sistemas.dev.br)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://ebs-sistemas.dev.br)
 
