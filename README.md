@@ -24,6 +24,14 @@
     <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 </div><br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elmobs/elmobs/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elmobs/elmobs/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/elmobs/elmobs/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ## Sobre<br/>
 Bacharel em Sistema de Informação, pós graduando em Desenvolvimento web full Stack; Desenvolvedor Full Stack, apaixonado, focado e dedicado a aprender cada dia mais, estudando pesquisando e me atualizando, para conseguir sempre construir soluções escaláveis, sistemas de alta qualidade, confiança, eficiência e manutenibilidade. Com experiência majoritariamente voltada para o ReactJS e Node, sou um profissional focado em resolver desafios técnicos, ajudar empresas e pessoas a alcançarem seus objetivos e com isso conseguir junto com o time fazer entregas de soluções sempre prezando pela qualidade e usabilidade. 
 
